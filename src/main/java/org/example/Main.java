@@ -6,8 +6,4 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    public double restar(double numero1, double numero2) {
-        return numero1 - numero2;
-    }
-
 }
