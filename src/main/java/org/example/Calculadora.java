@@ -9,7 +9,7 @@ public class Calculadora {
         this.denominador = denominador;
 
     }
-    public static double divison (double numerador, double denominador){
-        return (numerador/denominador);
+    public static double divison (double numero1, double numero2){
+        return (numero1/numero2);
     }
 }
